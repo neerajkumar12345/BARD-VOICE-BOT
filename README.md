@@ -1,5 +1,8 @@
 # BARD-VOICE-BOT
 Bard voice chatbots technology is a part of human robot interactions which offers with various opportunities and support firms to discover better insights and provides a better platform for good decision making.
+after copy this code you have to install all library thats we use in this code must be install in your code editor.
+and next part create your own Bard Api after you can run this code ....
+hope you enjoy.
 Currently, the evolution of marketing has reached its point, which adopt digital trends and
 advanced technologies in its day to day operation and it is inevitable. Automated applications
 and other related system are highly relied on artificial intelligence by curtail its complexity of
